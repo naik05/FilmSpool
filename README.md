@@ -9,7 +9,7 @@ This tool was created out of a personal need to make the excellent **ExifTool** 
 #### Credits
 
 This application is a wrapper built around [ExifTool](https://exiftool.org/) by Phil Harvey. All credit for the incredible engine that powers this software goes to him. Without his work, this tool would not be possible.
-
+The exiftool.exe included in the release is the official, unchanged binary provided by the author. You can verify its authenticity by comparing its hash with the one provided on the [official ExifTool website](https://exiftool.org/)
 #### How to use
 
 1. **Prepare your files:** Ensure your scanned photos are in a single folder.
