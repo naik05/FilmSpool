@@ -37,3 +37,15 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+
+# --- Project Specifics ---
+# Unsere fertigen Build-Pakete
+FilmSpool/
+
+# Das ExifTool
+exiftool.exe
+exiftool_files/
+
+# Icons und Ressourcen, falls sie nicht in Git sollen (optional)
+# icon.ico
