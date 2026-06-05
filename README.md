@@ -22,3 +22,7 @@ Note: FilmSpool is a portable application and does not require installation. Jus
 
 Created by naik05/Kian Nölling
 06/05/2026
+
+
+
+<img width="645" height="504" alt="image" src="https://github.com/user-attachments/assets/21e1e5b9-f7ad-4dff-9ee1-a4ecd24c74c3" />
